@@ -12,4 +12,4 @@ This project uses Convolutional Neural Networks (CNNs) and transfer learning in 
 ## Findings
 The final model achieved a test accuracy of 81.4593%.
 
-More indepth article on the classifier can be found int the report here: 
+More indepth article on the classifier can be found int the report here: [Project eview](https://github.com/dilimou/Dog-Breed-Classifier/blob/main/report.pdf)
