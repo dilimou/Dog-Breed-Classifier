@@ -21,7 +21,7 @@ This project uses Convolutional Neural Networks (CNNs) and transfer learning in 
 ![image](https://user-images.githubusercontent.com/23463800/151916575-019ee367-2248-4d3c-9c61-c0cb163f54f9.png)
 
 
-More indepth article on the classifier can be found int the article here: [Medium Post](https://medium.com/@malianwics/dog-breed-classification-using-cnns-and-transfer-learning-a53bdb2b22f1)
+More indepth article on the classifier can be found int the article here: [Medium Post](https://medium.com/@dilidev/dog-breed-classification-using-cnns-and-transfer-learning-a53bdb2b22f1)
 
 ## Licensing, Authors, Acknowledgements
 All the dataset and starting codes was procided by udacity.
