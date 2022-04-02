@@ -1,7 +1,7 @@
 # Dog-Breed-Classifier
 
 ## Project Overview
-This project uses Convolutional Neural Networks (CNNs) and transfer learning in order to build a pipeline to process real-world, user-supplied images. Convolutional Neural Networks (CNNs) are commonly used to analyse image data. Transfer learning is a technique that allows to reuse a model across different tasks. The objective is that given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed. If the algorithm can't identify the image as a human or dog, it will say so.
+This project uses Convolutional Neural Networks (CNNs) and transfer learning in order to build a pipeline to process real-world, user-supplied images. Convolutional Neural Networks (CNNs) are commonly used to analyze image data. Transfer learning is a technique that allows to reuse a model across different tasks. The objective is that given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed. If the algorithm can't identify the image as a human or dog, it will say so.
 
 ## File descriptions
 - dog_app.ipynb: Jupyter notebook containing the algorithm and process used to create it.
@@ -21,7 +21,7 @@ This project uses Convolutional Neural Networks (CNNs) and transfer learning in 
 ![image](https://user-images.githubusercontent.com/23463800/151916575-019ee367-2248-4d3c-9c61-c0cb163f54f9.png)
 
 
-More indepth article on the classifier can be found int the article here: [Medium Post](https://medium.com/@dilidev/dog-breed-classification-using-cnns-and-transfer-learning-a53bdb2b22f1)
+More indepth article on the classifier can be found here: [Medium Post](https://medium.com/@dilidev/dog-breed-classification-using-cnns-and-transfer-learning-a53bdb2b22f1)
 
 ## Licensing, Authors, Acknowledgements
 All the dataset and starting codes was procided by udacity.
